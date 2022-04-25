@@ -25,3 +25,8 @@ Em Sauter 是 Pints and Panels 系列漫画的原作者，屡获殊荣的漫画�
 ## 协作规则
 1. 从[P&P网站](https://www.pintsandpanels.com/educational-comics-archive)下载图片，按分类保存到对应文件夹，保持原文件名
 2. 创建一个同名.md文件，存放中文翻译内容
+
+## 命名规范
+- abcd.jpeg  (原漫画图片)
+- abcd.md   （中文翻译）
+- abcd_cn.png（制作完成的中文片漫画图片）

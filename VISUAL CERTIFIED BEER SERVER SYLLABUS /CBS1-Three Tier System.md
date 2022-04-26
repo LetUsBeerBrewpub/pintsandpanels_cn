@@ -3,6 +3,7 @@ Cicerone Certification Program US Certified Beer Server Syllabus
 Cicerone啤酒侍酒师认证课程大纲
 
 1.Three Tier System
+
 1.三级销售机制
     
     breweries sell to distributors

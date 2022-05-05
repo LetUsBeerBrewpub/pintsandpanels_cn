@@ -6,7 +6,7 @@
 
 > A natural by-product of fermentation. Yeast should reabsorb it and turn into flavorless compounds
 
-一种在啤酒发酵过程中产生的副产物，发酵后期酵母会将其再分解并转化为们味的化合物
+一种在啤酒发酵过程中产生的副产物，发酵后期酵母会将其再分解并转化为无味的化合物
 
 > Also can manifest itself in dirty draft line infection
 

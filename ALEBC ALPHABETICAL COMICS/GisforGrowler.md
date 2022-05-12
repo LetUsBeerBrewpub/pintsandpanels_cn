@@ -1,8 +1,8 @@
-# G is for Growler 外带瓶
+# G is for Growler 生啤外带瓶
 
 > Was once a bucket you filled at a saloon/pub and brought home in the late 19th century
 
-19世纪末人们使用一种小水桶把生啤从店里买回家喝
+在19世纪末人们使用一种小水桶把生啤从店里买回家喝
 
 > Became very popular during the early 2010's with the craft beer taproom boom in the U.S.
 
@@ -12,4 +12,4 @@
 
 64盎司*棕色玻璃款是最受欢迎的，也有32盎司容量的，也有非玻璃制成的（如金属）
 
-64盎司约等于1.9升[译注]
+64液体盎司约等于1.9升[译注]

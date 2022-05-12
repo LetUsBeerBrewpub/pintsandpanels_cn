@@ -1,12 +1,12 @@
-# F is for Flanders 法兰德斯
+# F is for Flanders 法兰德斯地区
 
 > Northern part of Belgium - they speak Flemish
 
-比利时的北部 - 使用佛兰芒语
+在比利时的北部 - 使用佛兰芒语
 
 > Specialties include Flanders Reds and Oud Bruin styles of beer
 
-特色啤酒风格包括法兰德斯红色艾尔和老棕色艾尔
+特色的啤酒风格包括法兰德斯红色艾尔和老棕色艾尔
 
 > Home to amazing cities like Bruges
 

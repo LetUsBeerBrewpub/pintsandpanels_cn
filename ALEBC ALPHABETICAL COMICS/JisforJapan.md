@@ -1,4 +1,4 @@
-# J is for Japan
+# J is for Japan 日本
 
 > An Asian country that has been brewing sake for centuries
 
@@ -6,7 +6,7 @@
 
 > Large breweries like Kirin, Sapporo and Asahi were well established by the 1890's
 
-麒麟、札幌和朝日等大型啤酒厂早在十九世纪90年代就已建立
+早在十九世纪90年代就已建立了麒麟、札幌和朝日等大型啤酒厂
 
 > Japan has a very diverse beer culture from mass produced lagers to established craft brands to a love of imports
 

@@ -10,4 +10,4 @@
 
 > Pulling the beer frome the solera a set times and refreshing the barrels with younger beer of the same style. Looking to create consistent product
 
-在特定的时间从Solera中提取陈化的啤酒，再用相同风格的年轻啤酒混入新酒桶。 力求调制出稳定的产品
+在特定的时间从Solera中提取陈化的啤酒，再与相同风格的年轻啤酒一起混入新酒桶。 力求调制出稳定的产品

@@ -1,4 +1,4 @@
-# 普通苦啤
+# Ordinary Bitter 普通苦味啤酒
 
 > London Ale Yeast
 
@@ -6,11 +6,11 @@
 
 > UK Malts like Maris Otter
 
-英式麦芽,如Maris Otter
+英式麦芽,如马瑞斯奥特麦芽
 
-> Seessionable - for long nights at the pub
+> Sessionable - for long nights at the pub
 
-适合酒吧的漫漫长夜
+适合在酒吧度过漫漫长夜
 
 > UK Hops
 
